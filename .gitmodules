@@ -1,0 +1,7 @@
+[submodule "Assignment2/translator-submodule"]
+	path = Assignment2/translator-submodule
+	url = https://github.com/egilhagen/sign-language-translator
+	
+[submodule "Assignment1/techShop-submodule"]
+	path = Assignment1/techShop-submodule
+	url = https://github.com/egilhagen/TechShop
