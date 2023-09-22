@@ -1,0 +1,3 @@
+[submodule "sign-language-translator"]
+	path = sign-language-translator
+	url = https://github.com/egilhagen/sign-language-translator
