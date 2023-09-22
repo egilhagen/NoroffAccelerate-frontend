@@ -4,3 +4,6 @@
 [submodule "TechShop"]
 	path = TechShop
 	url = https://github.com/egilhagen/TechShop
+[submodule "Assignment2/submodule"]
+	path = Assignment2/submodule
+	url = https://github.com/egilhagen/sign-language-translator
